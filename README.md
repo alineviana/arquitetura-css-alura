@@ -2,7 +2,7 @@
 
 <img src="./assets/img/preview.png" width=550> <img src="./assets//img/preview1.png" height=853 width=130>
 
-Clique [AQUI](https://github.com/alineviana/arquitetura-css-alura/) para acessar o projeto
+Clique [AQUI](https://alineviana.github.io/arquitetura-css-alura/) para acessar o projeto
 
 <br>
 
